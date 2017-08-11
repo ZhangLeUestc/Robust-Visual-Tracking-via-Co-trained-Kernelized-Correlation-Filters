@@ -12,12 +12,19 @@ If you use this code for your reasearch, please cite:
 
 
 @article{zhang2017robust,
+  
   title={Robust visual tracking via co-trained Kernelized correlation filters},
-  author={Zhang, Le and Suganthan, Ponnuthurai Nagaratnam},
+ 
+ author={Zhang, Le and Suganthan, Ponnuthurai Nagaratnam},
+  
   journal={Pattern Recognition},
-  volume={69},
-  pages={82--93},
+ 
+ volume={69},
+ 
+ pages={82--93},
+  
   year={2017},
+  
   publisher={Elsevier}
 }
 
